@@ -4,7 +4,7 @@ version = "1.0.0"
 description = "1:1 Java Inventory Profiles Next: One-click & R-key sorting (Category, A-Z, Count, ID), Auto-Refill depleted hand stacks, Tool Break Protection, and Quick-Stack to chests."
 authors = ["CayMac"]
 license = "MIT"
-api = 1
+api = "1"
 
 [native]
 game = "26.3"
