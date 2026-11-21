@@ -5,4 +5,4 @@ description = "1:1 Java Inventory Profiles Next: One-click & R-key sorting (Cate
 authors = ["CayMac"]
 
 [native]
-entrypoint = "mixins/inventory_profiles/runtime.rs"
+mixins = "mixins/inventory_profiles/runtime.rs"
