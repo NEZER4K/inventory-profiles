@@ -5,6 +5,7 @@ description = "1:1 Java Inventory Profiles Next: One-click & R-key sorting (Cate
 authors = ["CayMac"]
 license = "MIT"
 api = "1"
+capabilities = []
 
 [native]
 game = "26.3"
